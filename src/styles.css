@@ -1,4 +1,10 @@
+html,
+body {
+  margin: 0;
+}
 .App {
+  padding: 3rem;
+  background-color: slateblue;
   font-family: sans-serif;
   text-align: center;
 }

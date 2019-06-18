@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+import "./styles.css";
 import "./flatty.css";
 import Flatty from "./Flatty";
 
