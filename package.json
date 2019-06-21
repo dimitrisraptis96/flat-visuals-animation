@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "loceye-flat-visualizations",
   "version": "1.0.0",
-  "description": "",
+  "description": "The lovely trademark illustration at the Loceye website",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
